@@ -1,0 +1,8 @@
+C:\Users\Yukami\source\repos\ConnectToDatabase\ExecuteQuery\bin\Debug\netstandard2.0\ExecuteQuery.deps.json
+C:\Users\Yukami\source\repos\ConnectToDatabase\ExecuteQuery\bin\Debug\netstandard2.0\ExecuteQuery.dll
+C:\Users\Yukami\source\repos\ConnectToDatabase\ExecuteQuery\obj\Debug\netstandard2.0\ExecuteQuery.csprojAssemblyReference.cache
+C:\Users\Yukami\source\repos\ConnectToDatabase\ExecuteQuery\obj\Debug\netstandard2.0\ExecuteQuery.AssemblyInfoInputs.cache
+C:\Users\Yukami\source\repos\ConnectToDatabase\ExecuteQuery\obj\Debug\netstandard2.0\ExecuteQuery.AssemblyInfo.cs
+C:\Users\Yukami\source\repos\ConnectToDatabase\ExecuteQuery\bin\Debug\netstandard2.0\ExecuteQuery.pdb
+C:\Users\Yukami\source\repos\ConnectToDatabase\ExecuteQuery\obj\Debug\netstandard2.0\ExecuteQuery.dll
+C:\Users\Yukami\source\repos\ConnectToDatabase\ExecuteQuery\obj\Debug\netstandard2.0\ExecuteQuery.pdb
