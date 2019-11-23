@@ -20,7 +20,7 @@ namespace SQliteConnection
                 string password = Console.ReadLine();
                 #endregion
 
-                #region Create the database
+                #region Create the table Users if not exists
                 string createQuery = @"CREATE TABLE IF NOT EXISTS 
                                 [Users]([Id] INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
                                 [Name] VARCHAR(255) NOT NULL,
